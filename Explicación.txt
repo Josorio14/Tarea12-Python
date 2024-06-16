@@ -1,0 +1,23 @@
+SKYJUMPMARIO--Version 1.6--
+
+Si, 1.6, este juego lleva en proceso ya más de un mes donde ha sufrido una gran serie de cambios, 
+el desarrolador ha querido detallar como intentar hacer un juego entretenido tanto visualmente como en mecánicas.
+
+--¿Qué es Sky jump Mario?--
+Es como la versión del pou pero con temática del fontanero italiano, donde iniciara en una mazmorra cual su objetivo es ascender 
+a lo más alto del espacio.
+
+al llegar a los 3200 puntos, lograras escapar de la oscura mazmorra saliendo a la luz del cielo claro pero a medida que subes, 
+las plataformas, se mueven como aumenta la velocidad del jugador y de ellas dificultando el ascender al espacio.
+
+A los 5000 puntos lograras llegar lo más alto del cielo oscuro y 7200 cumpliras el objetivo de estar en el espacio, donde Mario,
+usara un casco espacial para seguir subiendo y subiendo hasta donde seas capaz
+
+¿Te atreves a enfrentarte a las alturas?
+¿Seras capaz de llegar a la meta?
+Prueba  SKYJUMPMARIO creado por Sebastian Osorio alumno 1r SMX 
+
+--WEBGRAFIA--
+Coding With Russ: https://www.youtube.com/watch?v=5FMPAt0n3Nc&list=PLjcN1EyupaQlBSrfP4_9SdpJIcfnSJgzL
+
+Baraltech: https://www.youtube.com/watch?v=ST-Qq3WBZBE
